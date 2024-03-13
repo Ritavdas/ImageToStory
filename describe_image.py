@@ -3,7 +3,6 @@ import os
 import requests
 import streamlit as st
 from dotenv import find_dotenv, load_dotenv
-from IPython.display import Audio
 from langchain.chains.llm import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain_openai import OpenAI
