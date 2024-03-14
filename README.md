@@ -25,6 +25,12 @@ This project is an innovative application that transforms images into audio stor
 2. Rename `.env.example` to `.env` and update it with your API Keys.
 3. Run the Streamlit app: `streamlit run describe_image.py`
 
+## Demo Video
+
+Check out our project in action! Uploaded a demonstration video showcasing how the Image to Audio Story Converter works, from uploading an image to hearing the generated audio story. Watch the video to see the app's features and capabilities firsthand.
+
+https://github.com/Ritavdas/ImageToStory/assets/45960527/42356751-3527-4c6e-8eeb-006e3c88213b
+
 ## Contribution
 
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
